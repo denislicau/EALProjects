@@ -10,7 +10,7 @@ namespace ForGITHUB
     {
         static void Main(string[] args)
         {
-            console.writeline();
+            Console.WriteLine();
         }
     }
 }
